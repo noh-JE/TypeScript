@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a5b0904c-7bb1-484a-a1ae-6f93792f0ec3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/5-generic/5-1-function.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-generic/5-2-class.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-generic/5-3-constrains.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7-api/7-1-api.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-types/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-types/.idea/1-types.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-types/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-types/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-types/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-types/1-1-basic.ts" beforeDir="false" afterPath="$PROJECT_DIR$/1-types/1-1-basic.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3-oop/3-3-encapsulation.ts" beforeDir="false" afterPath="$PROJECT_DIR$/3-oop/3-3-encapsulation.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3-oop/3-4-abstraction.ts" beforeDir="false" afterPath="$PROJECT_DIR$/3-oop/3-4-abstraction.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3-oop/3-5-inheritance.ts" beforeDir="false" afterPath="$PROJECT_DIR$/3-oop/3-5-inheritance.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3-oop/3-6-polymorphism.ts" beforeDir="false" afterPath="$PROJECT_DIR$/3-oop/3-6-polymorphism.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3-oop/3-7-composition.ts" beforeDir="false" afterPath="$PROJECT_DIR$/3-oop/3-7-composition.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3-oop/3-8-abstract.ts" beforeDir="false" afterPath="$PROJECT_DIR$/3-oop/3-8-abstract.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4-oop-project/stack.ts" beforeDir="false" afterPath="$PROJECT_DIR$/4-oop-project/stack.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/99-repeat/class.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/99-repeat/coffeeMaker.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/99-repeat/encapsulation.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/99-repeat/stack.ts" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1s3loc1Br84X4CnaNgOuBPMGEIb" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/6-generic-project/stack.ts" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2021.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="two.files.diff.last.used.file" value="$USER_HOME$/Downloads/6-generic-project/stack.ts" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IMYME_STUDY\Study\DreamCoding\typescript_\3-oop" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a5b0904c-7bb1-484a-a1ae-6f93792f0ec3" name="Default Changelist" comment="" />
+      <created>1620109330692</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620109330692</updated>
+      <workItem from="1620109332087" duration="187000" />
+      <workItem from="1620142948072" duration="880000" />
+      <workItem from="1620260457332" duration="7473000" />
+      <workItem from="1620539097765" duration="185000" />
+      <workItem from="1620565010981" duration="7774000" />
+      <workItem from="1620709830600" duration="1968000" />
+      <workItem from="1620976637539" duration="5153000" />
+      <workItem from="1621127853277" duration="1122000" />
+      <workItem from="1621215338074" duration="247000" />
+      <workItem from="1621215601739" duration="7866000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

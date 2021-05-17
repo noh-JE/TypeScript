@@ -29,7 +29,7 @@
 
     // unknown 💩
 
-    let notSure: unknow = 0;
+    let notSure: unknown = 0;
     notSure = 'he';
     notSure = true;
 
@@ -45,7 +45,7 @@
     let unusable: void = undefined; // 💩
 
     //never - 에러를 던지거나 리턴되지 않는 경우
-    function throwError(message: string):nexer {
+    function throwError(message: string):never {
         //message -> server (log)
         throw new Error(message);
         while (true) {}

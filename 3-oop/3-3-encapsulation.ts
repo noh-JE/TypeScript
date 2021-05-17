@@ -56,4 +56,25 @@
 
     const maker = CoffeeMaker.makerMachine(32);
     maker.fillCoffeeBeans(20);
+
+    class User {
+        get fullName(): string {
+            return `${this.firstName} ${this.lastName}`;
+        }
+
+        private internalAge = 4;
+
+        get age(): number {
+            return this.internalAge;
+        }
+
+        set age(num: number) {
+            this.internalAge = num;
+        }
+
+        constructor(private firstName: string, public lastName: string) {
+        }
+    }
+    const user = new User('steve', 'jobs');
+    console.log(user.fullName);
 }
